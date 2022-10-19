@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 import './index.scss';
 
-import Modal from './components';
+import Modal from './components/Modal';
 
 const App: React.FC = () => {
 

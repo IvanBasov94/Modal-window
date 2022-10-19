@@ -1,12 +1,12 @@
 import React from "react";
 
-import natureGif from "../assets/img/nature.gif";
+import natureGif from '../../assets/img/nature.gif';
 
 
 type ModalProps = {
    open: boolean,
-   setOpen: any,
-}
+   setOpen: (open: boolean) => void,
+};
 
 
 const Modal: React.FC<ModalProps> = ({ open, setOpen }) => {
