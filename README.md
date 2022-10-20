@@ -12,7 +12,7 @@ Modal window with animation.
 ![SCSS](https://img.shields.io/badge/-SCSS-4d4d4d?style=for-the-badge&logo=Sass&logoColor=be608b)
 
 ### Demo
-<img src="https://user-images.githubusercontent.com/114185457/197012988-82805019-233e-4ffc-8544-b046badd953d.gif" alt="drawing" width="300"/>
+<img src="https://user-images.githubusercontent.com/114185457/197012988-82805019-233e-4ffc-8544-b046badd953d.gif" alt="drawing" width="200"/>
 
 ### Running the finished code
 The project is made in version React 18.2.0.
