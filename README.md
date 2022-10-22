@@ -1,4 +1,4 @@
-# Modal window
+# Modal window 🖥
 Modal window with animation.
 
 ### Main objectives of the project 
@@ -18,6 +18,7 @@ Modal window with animation.
 The project is made in version React 18.2.0.
 
 Clone the repository and run the following:
-* npm install;
-* npm start;
+* `npm install`
+* `npm start`
+* navigate to `http://localhost:3000/`
 
